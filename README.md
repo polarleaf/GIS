@@ -1,5 +1,4 @@
 # GIS
-Tugas1
 
 Fitri Fadhilah 
 1144064 
