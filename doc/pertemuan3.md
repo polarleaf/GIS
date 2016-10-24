@@ -5,6 +5,7 @@ yaitu data yang menampilkan suatu pola keruangan bumi, maupun dalam bentuk titik
 
 
 Kelebihan : Ruang penyimpanan lebih efisien, resolusi spasial tinggi dan sangan mirip, mudah menentukan atau mensimulasikan koordinatnya. 
+
 Kekurangan : sulit untuk mengakomodasi perubahan fenomena terutama yang bersifat gradual, struktur datanya kompleks, dan tidah mudah untuk dimanipulasi.
 
 link scan plagiarisme :
