@@ -16,7 +16,7 @@
 
 3. Dicentos buka terminal, login sebagai root 
 
-4. #install mapserver 
+4. install mapserver 
 
 5. Selesai
 
@@ -26,15 +26,15 @@
 
 1. Install python-pip dan python-dev 
 
-2. #install python-pip dan python-dev 
+2. install python-pip dan python-dev 
 
 3. pip Install mapproxy 
 
-4. #install mapproxy 
+4. install mapproxy 
 
 5. Install Vwsqi 
 
-6. #install Vwsqi
+6. install Vwsqi
 
 --Testing 
 
